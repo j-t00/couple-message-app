@@ -130,7 +130,7 @@ export default function RoomPage() {
     <main className="flex flex-col h-screen bg-pink-50">
       {/* ヘッダー */}
       <div className="bg-white shadow p-4 flex items-center justify-between">
-        <h1 className="text-pink-400 font-bold text-lg">💌 たべてもいい？</h1>
+        <h1 className="text-pink-400 font-bold text-lg">💌 ふたりアプリ</h1>
         <button
           onClick={copyUrl}
           className="text-sm bg-pink-100 hover:bg-pink-200 text-pink-500 px-4 py-1 rounded-full transition"
